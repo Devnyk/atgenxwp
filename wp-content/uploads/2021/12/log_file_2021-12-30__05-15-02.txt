@@ -1,0 +1,50 @@
+
+---Downloaded files---
+The import files for: Elementor Demo 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/atgenxclone
+Data file = C:\xampp\htdocs\atgenxclone/wp-content/uploads/2021/12/demo-content-import-file_2021-12-30__05-15-02.xml
+Widget file = C:\xampp\htdocs\atgenxclone/wp-content/uploads/2021/12/demo-widgets-import-file_2021-12-30__05-15-02.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Leverage Widget - No Title - Imported
+Categories - Categories - Imported
+Tag Cloud - Popular Tags - Imported
+Leverage Widget - No Title - Imported
+Gallery - Image Gallery - Imported
+
+Page Sidebar : 
+
+Leverage Widget - No Title - Imported
+Leverage Widget - No Title - Imported
+
+
+
+---ocdi/after_import---
+

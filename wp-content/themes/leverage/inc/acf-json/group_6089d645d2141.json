@@ -1,0 +1,418 @@
+{
+    "key": "group_6089d645d2141",
+    "title": "Custom Feature",
+    "fields": [
+        {
+            "key": "field_5f14d430cb39d",
+            "label": "Custom ID",
+            "name": "custom_custom_id",
+            "type": "text",
+            "instructions": "Assigning an ID to this section, you can use it to create an anchor link.<br><a href=\"https:\/\/leverage.codings.dev\/docs\/building-pages\/anchor-link\" target=\"_blank\">Read more<\/a>.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "input-200",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_6089d735acc1e",
+            "label": "Options",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5f14d42fcb39c",
+            "label": "Custom Class",
+            "name": "custom_custom_class",
+            "type": "text",
+            "instructions": "Enter a Class if you want to create Custom CSS.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "input-200",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5ea70a8c08c51",
+            "label": "Enable on Front Page",
+            "name": "enable_custom_on_front_page",
+            "type": "true_false",
+            "instructions": "Enable so that this section appears only on the front page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5ea70a8808c50",
+            "label": "Enable on Pages",
+            "name": "enable_custom_on_pages",
+            "type": "true_false",
+            "instructions": "Please enable this section to appear on all pages.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5ea70a8f08c52",
+            "label": "Enable on Posts",
+            "name": "enable_custom_on_posts",
+            "type": "true_false",
+            "instructions": "Please enable this section to appear on all post pages.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_6089d73aacc1f",
+            "label": "Design & Color",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5eab39dee7b02",
+            "label": "Enable Divider",
+            "name": "custom_enable_separator_line",
+            "type": "true_false",
+            "instructions": "Enable this option for a dash to be displayed below the section.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5eab3335e18e9",
+            "label": "Enable Dark Mode",
+            "name": "custom_enable_dark_mode",
+            "type": "true_false",
+            "instructions": "Enable this option if the background color of this section is dark. This will make the texts white.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        },
+        {
+            "key": "field_5eab332fe18e8",
+            "label": "Background Color",
+            "name": "custom_background_color",
+            "type": "color_picker",
+            "instructions": "That color will be applied to this section.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "50",
+                "class": "",
+                "id": ""
+            },
+            "default_value": ""
+        },
+        {
+            "key": "field_6089d741acc20",
+            "label": "Layout",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5f1398c1e8b77",
+            "label": "Container",
+            "name": "custom_container",
+            "type": "button_group",
+            "instructions": "Choose the width of the Container in this section.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "smaller": "Smaller",
+                "default": "Default",
+                "full-grid": "Full"
+            },
+            "allow_null": 0,
+            "default_value": "default",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5f1398bee8b76",
+            "label": "Vertical Spacing",
+            "name": "custom_vertical_spacing",
+            "type": "range",
+            "instructions": "Choose the Vertical Spacing of this section in the Desktop Version. (Screens larger than 768px).",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 130,
+            "min": 0,
+            "max": 200,
+            "step": 10,
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_5f1398bce8b75",
+            "label": "Vertical Spacing < 768px",
+            "name": "custom_vertical_spacing_responsive",
+            "type": "range",
+            "instructions": "Choose the Vertical Spacing of this section in the Mobile Version. (Screens smaller than 768px).",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 90,
+            "min": 0,
+            "max": 200,
+            "step": 10,
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_6089d747acc21",
+            "label": "Heading",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5f50fc1eca6c7",
+            "label": "Heading Style",
+            "name": "custom_heading_style",
+            "type": "button_group",
+            "instructions": "Choose the style of the Title for this section.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "simple": "Simple",
+                "featured": "Topline",
+                "super effect-static-text": "Colorful"
+            },
+            "allow_null": 0,
+            "default_value": "featured",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5f50fc1fca6c8",
+            "label": "Text Align",
+            "name": "custom_text_align",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "25",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "text-md-left": "Left",
+                "text-md-center": "Center",
+                "text-md-right": "Right"
+            },
+            "allow_null": 0,
+            "default_value": "text-center",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5ea710a7cc5a5",
+            "label": "Title",
+            "name": "custom_title",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5ea710aacc5a6",
+            "label": "Description",
+            "name": "custom_description",
+            "type": "wysiwyg",
+            "instructions": "Create a description that will be positioned below the Title.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 0,
+            "delay": 0
+        },
+        {
+            "key": "field_6089d7b2acc22",
+            "label": "Content",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_5ea70ac908c53",
+            "label": "Content",
+            "name": "custom",
+            "type": "wysiwyg",
+            "instructions": "Here you can create anything. Even use shortcodes from plugins, such as forms and galleries. On the pages you can choose individually to show this content or not.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 0,
+            "delay": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-settings-custom-feature"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1620923116
+}
